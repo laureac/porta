@@ -5,3 +5,16 @@
 * {
   font-family: "Inter", sans-serif;
 }
+
+.icon {
+  color: gray;
+  border: 0.1rem solid gray;
+  border-radius: 100%;
+  padding: .5rem;
+  height: 1rem;
+  width: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
